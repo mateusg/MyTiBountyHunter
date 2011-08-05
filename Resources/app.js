@@ -12,7 +12,6 @@ var fugitivesWindow = Titanium.UI.createWindow({
     backgroundColor:'#fff',
     url: 'fugitives.js'
 });
-
 //Titanium.include("fugitives.js");
 
 var fugitivesTab = Titanium.UI.createTab({
